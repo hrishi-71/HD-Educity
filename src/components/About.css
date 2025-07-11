@@ -1,0 +1,15 @@
+.about-img{
+    width: 90%;
+    height: 80%;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+.playbtn{
+    width: 15%;
+    position: absolute;
+    top: 30%;
+    left:43%
+}
+.playbtn:hover{
+    cursor: pointer;
+}

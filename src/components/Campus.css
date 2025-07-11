@@ -1,0 +1,11 @@
+.carousel{
+    margin: auto;
+    width:75%;
+}
+.carousel-indicators{
+    margin-top: 75%;
+}
+.camp{
+    width:99%;
+    height:400px; 
+}

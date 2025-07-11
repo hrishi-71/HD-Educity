@@ -1,0 +1,29 @@
+a img {
+  height: 50px;
+}
+#navi {
+  background: #0a0a46;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+}
+#navi * {
+  color: white;
+}
+.navbar-brand {
+  font-family: "Algerian";
+  font-size: 36px;
+}
+.links:hover {
+  cursor: pointer;
+  text-shadow: 0px 0px 5px white, 0px 0px 10px white, 0px 0px 15px white;
+}
+.links:focus {
+  cursor: pointer;
+  text-shadow: 0px 0px 5px white, 0px 0px 10px white, 0px 0px 15px white;
+}
+#ham {
+  width: 40px;
+}
